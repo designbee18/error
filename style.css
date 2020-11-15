@@ -1,0 +1,17 @@
+/* Css */
+
+td {
+
+    background-color: blue;
+}
+
+body {
+    display: block;
+    margin: 0;
+}
+
+table {
+    //position: absolute;
+    width: 100%;
+    height: 100vh;
+}
